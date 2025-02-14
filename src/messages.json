@@ -1,0 +1,16 @@
+{
+    "boot": {
+        "message": "{0}としてログインしました！",
+        "bot": "Gyazo Uploader",
+        "activity": "Gyazo"
+    },
+    "gyazo": {
+        "downloadImage": "画像をダンロードしています：{0}",
+        "doanloadedImage": "画像をダウンロードしました：{0}",
+        "uploadImageSuc": "☑ 画像のGyazoへのアップロードに成功しました：{0}",
+        "uploadImageFail": "☒ 画像のGyazoへのアップロードに失敗しました",
+        "imageUrl": "画像URL：{0}",
+        "uploadImageDone": "☑ Gyazoへアップロード完了しました：{0}",
+        "uploadImageNtDone": "画像が見つかりません！"
+    }
+}
